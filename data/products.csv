@@ -1,0 +1,43 @@
+product_id,product_name,category,price
+1,Eco Headphones,Electronics,1154.6
+2,Pro Smartwatch,Electronics,896.03
+3,Everyday Bluetooth Speaker,Electronics,645.41
+4,Smart Laptop,Electronics,185.43
+5,Ultra Tablet,Electronics,859.64
+6,Eco Webcam,Electronics,1195.82
+7,Ultra Power Bank,Electronics,848.08
+8,Everyday Monitor,Electronics,280.21
+9,Premium Coffee Maker,Home & Kitchen,343.34
+10,Everyday Blender,Home & Kitchen,81.47
+11,Everyday Knife Set,Home & Kitchen,398.95
+12,Compact Cookware Set,Home & Kitchen,272.12
+13,Classic Air Fryer,Home & Kitchen,226.75
+14,Ultra Vacuum,Home & Kitchen,358.16
+15,Premium Toaster,Home & Kitchen,289.05
+16,Premium T-Shirt,Clothing,121.53
+17,Smart Hoodie,Clothing,42.95
+18,Eco Jeans,Clothing,121.31
+19,Eco Jacket,Clothing,121.07
+20,Pro Sneakers,Clothing,61.8
+21,Lite Cap,Clothing,62.91
+22,Smart Novel,Books,12.8
+23,Classic Cookbook,Books,10.43
+24,Deluxe Biography,Books,44.99
+25,Everyday Guidebook,Books,27.45
+26,Deluxe Textbook,Books,38.46
+27,Classic Yoga Mat,Sports & Outdoors,80.16
+28,Compact Dumbbell Set,Sports & Outdoors,328.32
+29,Everyday Tent,Sports & Outdoors,243.6
+30,Smart Bicycle,Sports & Outdoors,185.37
+31,Smart Running Shoes,Sports & Outdoors,327.1
+32,Premium Backpack,Sports & Outdoors,388.54
+33,Premium Face Serum,Beauty,56.45
+34,Pro Lipstick,Beauty,101.12
+35,Smart Shampoo,Beauty,25.14
+36,Premium Perfume,Beauty,26.14
+37,Eco Moisturizer,Beauty,46.75
+38,Smart Board Game,Toys & Games,81.59
+39,Classic Puzzle,Toys & Games,30.05
+40,Smart Building Blocks,Toys & Games,31.96
+41,Ultra Action Figure,Toys & Games,59.15
+42,Classic Card Game,Toys & Games,50.21
